@@ -1,5 +1,5 @@
 # fractalr
-Package to study and plot fractals. Some examples:
+A R package to study and plot fractals. Some examples:
 ##### Barnsley Fern
 `> fractalr::barnsleyfern(30000)`
 ![alt text](barnsleyfern.png)
