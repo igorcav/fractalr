@@ -1,0 +1,14 @@
+Package: fractalr
+Title: Plot fractals with R. 
+Version: 0.1.0
+Authors@R: 
+    person(given = "Igor",
+           family = "Cavalcante",
+           role = c("aut", "cre"),
+           email = "igorcav@gmail.com",
+           comment = structure("YOUR-ORCID-ID", .Names = "ORCID"))
+Description: This package implements various tools to plot and calculate variable fractals.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
