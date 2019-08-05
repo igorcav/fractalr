@@ -36,24 +36,24 @@ devtools::install_github("igorcav/fractalr").
 library(fractalr)
 r
 # Barnsley Fern
-`> fractalr::barnsleyfern(30000)`
+barnsleyfern(30000)
 
 # Chaos Game (5 points)
-`> fractalr::chaosgame(max=20000, n=5, r=3/8)
+chaosgame(max=20000, n=5, r=3/8)
 
 # Chaos Game (3 points)
-`> fractalr::chaosgame(max=20000, n=3, r=.5)`
+chaosgame(max=20000, n=3, r=.5)
 
 # Dragon Curve
-`> fractalr::dragoncurve(12)`
+dragoncurve(12)
 
 # Sierpinski Triangle
-`> fractalr::sierpinski(6)`
+sierpinski(6)
 
 # Cantor Set
-`> fractalr::cantorset(n=6)`
+cantorset(n=6)
 
 # Koch Snowflake
-`> fractalr::kochstar(6)`
+kochstar(6)
 
 ```
