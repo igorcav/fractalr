@@ -33,7 +33,7 @@ devtools::install_github("igorcav/fractalr").
 ## Usage
 
 ``` r
-library(dplyr)
+library(fractalr)
 r
 # Barnsley Fern
 `> fractalr::barnsleyfern(30000)`
