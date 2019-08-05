@@ -34,7 +34,7 @@ devtools::install_github("igorcav/fractalr").
 
 ``` r
 library(fractalr)
-r
+
 # Barnsley Fern
 barnsleyfern(30000)
 
